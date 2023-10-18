@@ -13,6 +13,6 @@ while (stop != 0):
 
 print (MyTable)
 
-#Ici pour que mon program termine quand le tableau est trié j'ai mit une bariable "stop"
+#Ici pour que mon program termine quand le tableau est trié j'ai mit une variable "stop"
 #Celle si permet de continué la boucle tant que le programme effectue des echange !
 #Une fois que le programme fait un tour "dans le vide" sans echange c'est que le tableau est trié donc il peux stop
