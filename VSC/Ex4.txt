@@ -1,0 +1,16 @@
+POURQUOI ? 
+Il est lent car il ne trie pas chaque valeur au fur et a mesure.
+Il fait "simplement" remonter les plus grande valeur les une apres les autres.
+Donc les petite valeur ne se trie que par "elimination".
+Ce qui ralonge le nombre de fois ou l'ont doit verifi le tableau
+
+TEMPS ? 
+On ne peux pas connaitre le "temps" qu'il mettra mais cela restera extrêmement court pour un ordinateur !
+En revanche on peux savoir combien de fois il devra faire "l'echange" Trier le tableau
+Il suffit de prendre la place des grande valeur dans l'ordre decroissant.
+Puis de calculer combien de fois elle vont devoir remonté pour être a leur place finale.
+
+
+
+
+M4EN FOU J4ECRIT CA PEUT TOUJOURS FAIRE DES POINT !!!!!!!!!!!! xD
